@@ -1,0 +1,2 @@
+# Network-Project
+The projects are about applying the server-client concept through step by step writing a code that handles a specific case. In the beginning you do so a client contacts a server and retrieves basic information from it. Later you add additional conditions such as limit and time when a client contacts a server. Finally in task4, it becomes possible for several clients to contact the server at the same time.
