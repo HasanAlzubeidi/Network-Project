@@ -1,10 +1,10 @@
-# Network-Project
+### Network-Project
 The projects are about applying the server-client concept through step by step writing a code that handles a specific case. In the beginning you do so a client contacts a server and retrieves basic information from it. Later you add additional conditions such as limit and time when a client contacts a server. Finally in task4, it becomes possible for several clients to contact the server at the same time.
 
-# Kursinnehåll
+### Kursinnehåll
 Flödesreglering och felövervakning: stop&wait och sliding window, feldetektering och -hantering, felrättande koder, omsändning (ARQ). Skiktade modeller: översikt över OSI och TCP/IP. Lokala nätverk: topologier, accesstyrning, token ring, Ethernet, trådlösa nät, sammanbryggade nät, "spanning tree", VLAN, länkprotokoll. Paket- och kretskoppling: WAN (Wide Area Network) och publika nät, principer och protokoll. Sammankopplade nät: Internetprotokoll (IP), förbindelseorienterat och förbindelsefritt, vägvalsprotokoll och -algoritmer Transportnivå: TCP, UDP. Kommunikationsmodeller: "Client-server" och "peer-to-peer". Tillämpningar: DNS, SMTP, FTP, HTTP, Telnet mm. Nätverksprogrammering.
 
-# Lärandemål
+### Lärandemål
 Målsättningen med kursen är att lära ut grunderna i datakommunikation och datornätverk. För den som sedan är intresserad av att ytterligare fördjupa sig, lägger den grunden för fortsatta studier inom området.
 
 För den som planerar att fokusera på andra områden av IT så ger kursen de baskunskaper som behövs för att förstå och utnyttja datorkommunikation och datornätverk på ett tillförlitligt och effektivt sätt i system och tillämpningar.
